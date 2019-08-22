@@ -41,7 +41,7 @@ Self-use glossary
 
 ***
 
-## 4.monottonous
+## 4.monotonous
 
 <details><summary><b>Interpretation</b></summary>
 <p>
@@ -55,48 +55,53 @@ Self-use glossary
 
 ***
 
-## 1.enhance
+## 5.occur
 
 <details><summary><b>Interpretation</b></summary>
 <p>
 
-#### v.  提高，增强
+#### v.  出现；存在；想起
+#### incur v. 招惹，招致
 
 </p>
 </details>
 
 ***
 
-## 1.enhance
+## 6.vulnerable
 
 <details><summary><b>Interpretation</b></summary>
 <p>
 
-#### v.  提高，增强
+#### a. 易受攻击的，易受伤害的
+#### wound n. 伤
 
 </p>
 </details>
 
 ***
 
-## 1.enhance
+## 7. susceptible
 
 <details><summary><b>Interpretation</b></summary>
 <p>
 
-#### v.  提高，增强
+#### a. 易受影响的；易受感动；易受感染的
+#### acceptable a. 可接受的
+#### sub-前缀 : 下面
 
 </p>
 </details>
 
 ***
 
-## 1.enhance
+## 8.insidious
 
 <details><summary><b>Interpretation</b></summary>
 <p>
 
-#### v.  提高，增强
+#### a. 隐伏的；暗中危害的；阴险的
+#### dangerous a. 危险的
 
 </p>
 </details>
